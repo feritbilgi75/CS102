@@ -1,0 +1,29 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Image",
+            "request": "launch",
+            "mainClass": "Image",
+            "projectName": "CS102_Sec1_Asgn6_Bilgi_Ferit_cf633025"
+        },
+        {
+            "type": "java",
+            "name": "Resim",
+            "request": "launch",
+            "mainClass": "Resim",
+            "projectName": "CS102_Sec1_Asgn6_Bilgi_Ferit_cf633025"
+        },
+        {
+            "type": "java",
+            "name": "Resim",
+            "request": "launch",
+            "mainClass": "Resim",
+            "projectName": "Lab 6_b3fd89ff"
+        }
+    ]
+}
